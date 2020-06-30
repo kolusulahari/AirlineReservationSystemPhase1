@@ -1,0 +1,444 @@
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+ID should consist of only digits
+Enter ID : 
+Enter Your Name : 
+Invalid Name! Name should have atleast 4 characters
+Enter Your Name : 
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter proper email such that it should consist of numbers and alphabets
+Enter Email to Register : 
+Enter Password :
+Password should contain atleast 6 characters ,one uppercase,one lowercase,one number,one special symbol(@#$%) 
+Enter Password :
+You have registered Successfully
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+101       SpiceJet        Vizag   to    Banglore        2020-07-24T12:30        2020-07-24T02:30      20 (Seats Available)
+102       Indigo        Banglore   to    Hyderabad        2020-07-26T01:30        2020-07-26T03:30      10 (Seats Available)
+103       GoAir        Chennai   to    Delhi        2020-08-24T12:30        2020-08-24T02:30      12 (Seats Available)
+103       AirAsia        Delhi   to    Mumbai        2020-08-15T10:00        2020-08-15T12:00      25 (Seats Available)
+103       TruJet        Kerala   to    SriNagar        2020-10-24T06:30        2020-10-24T08:30      12 (Seats Available)
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Invalid entry please provide only positive integer
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID to Register as ADMIN : 
+Invalid entry 
+1. Admin Registration
+2. Admin Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+ Invalid!! Please Enter Valid Choice
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID to Register as ADMIN : 
+Invalid entry 
+1. Admin Registration
+2. Admin Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+Enter Name : 
+Enter MobileNumber : 
+Enter Email : 
+Enter Password :
+Already registered
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+Invalid entry 
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+Enter Name : 
+Enter MobileNumber : 
+Enter Email : 
+Enter Password :
+You have registered Successfully
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Enter proper email such that it should consist of numbers and alphabets
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Password should contain atleast 6 characters ,one uppercase,one lowercase,one number,one special symbol(@#$%) 
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Invalid Credentials
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Enter FlightID to add : 
+Invalid entry please provide only positive integer
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Enter FlightID to add : 
+Invalid Id! Id should contain exactly 4 positive digits
+Enter FlightID to add : 
+Invalid Id! Id should contain exactly 4 positive digits
+Enter FlightID to add : 
+Enter FlightName : 
+Enter Source : 
+Enter Destination : 
+Invalid Destination! Destination should have atleast 4 characters
+Enter Destination : 
+Invalid Destination! Destination should have atleast 4 characters
+Enter Destination : 
+Enter No.of seat Available in the Flight : 
+Invalid entry please provide only positive integer
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+101       SpiceJet        Vizag   to    Banglore        2020-07-24T12:30        2020-07-24T02:30      20 (Seats Available)
+102       Indigo        Banglore   to    Hyderabad        2020-07-26T01:30        2020-07-26T03:30      10 (Seats Available)
+103       GoAir        Chennai   to    Delhi        2020-08-24T12:30        2020-08-24T02:30      12 (Seats Available)
+103       AirAsia        Delhi   to    Mumbai        2020-08-15T10:00        2020-08-15T12:00      25 (Seats Available)
+103       TruJet        Kerala   to    SriNagar        2020-10-24T06:30        2020-10-24T08:30      12 (Seats Available)
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Logged Out Successfully....!!!
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+Invalid entry 
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter ID : 
+Enter Name : 
+Enter MobileNumber : 
+Enter Email : 
+Enter Password :
+You have registered Successfully
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Enter proper email such that it should consist of numbers and alphabets
+1. Admin Registration
+2. Admin Login
+3. Exit
+Enter registered email to login : 
+Enter registered Password to login : 
+Logged in successfullyyy...!!!
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Enter FlightID to add : 
+Invalid entry please provide only positive integer
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Enter FlightID to add : 
+Invalid Id! Id should contain exactly 4 positive digits
+Enter FlightID to add : 
+Enter FlightName : 
+Enter Source : 
+Enter Destination : 
+Enter No.of seat Available in the Flight : 
+Enter  Flight Arrival Date Time : 
+Enter  Flight departure Date Time : 
+Flight added of id = 1006
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+101       SpiceJet        Vizag   to    Banglore        2020-07-24T12:30        2020-07-24T02:30      20 (Seats Available)
+102       Indigo        Banglore   to    Hyderabad        2020-07-26T01:30        2020-07-26T03:30      10 (Seats Available)
+103       GoAir        Chennai   to    Delhi        2020-08-24T12:30        2020-08-24T02:30      12 (Seats Available)
+103       AirAsia        Delhi   to    Mumbai        2020-08-15T10:00        2020-08-15T12:00      25 (Seats Available)
+103       TruJet        Kerala   to    SriNagar        2020-10-24T06:30        2020-10-24T08:30      12 (Seats Available)
+1006       Indigo        Vizag   to    Hyderabad        2020-10-24T12:30        2020-10-24T14:30      20 (Seats Available)
+1.   Add Flights
+2.   Remove Flight
+3.   View All FlightDetails
+4.   Logout
+Logged Out Successfully....!!!
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. User Register
+2. User Login
+3. Exit
+Enter ID to Register as USER : 
+Invalid entry 
+1. User Register
+2. User Login
+3. Exit
+Enter ID to Register as USER : 
+Enter Name to Register : 
+Enter MobileNumber to Register : 
+Enter Email to Register : 
+Enter Password :
+Registered Successfully
+1. User Register
+2. User Login
+3. Exit
+Enter registered email  : 
+Enter registered Password : 
+Invalid Credentials
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. User Register
+2. User Login
+3. Exit
+Enter registered email  : 
+Enter registered Password : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search Flight Details by Source : 
+1001       SpiceJet        Vizag   to    Banglore        2020-07-24T12:30        2020-07-24T02:30      20 (Seats Available)
+1001       SpiceJet        Vizag   to    Banglore        2020-07-24T12:30        2020-07-24T02:30      20 (Seats Available)
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Search flight by Destination : 
+Flight not found
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+ Search Flight by Name : 
+1002       Indigo        Banglore   to    Hyderabad        2020-07-26T01:30        2020-07-26T03:30      10 (Seats Available)
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+1001       SpiceJet        Vizag   to    Banglore        2020-07-24T12:30        2020-07-24T02:30      20 (Seats Available)
+1002       Indigo        Banglore   to    Hyderabad        2020-07-26T01:30        2020-07-26T03:30      10 (Seats Available)
+1003       GoAir        Chennai   to    Delhi        2020-08-24T12:30        2020-08-24T02:30      12 (Seats Available)
+1004       AirAsia        Delhi   to    Mumbai        2020-08-15T10:00        2020-08-15T12:00      25 (Seats Available)
+1005       TruJet        Kerala   to    SriNagar        2020-10-24T06:30        2020-10-24T08:30      12 (Seats Available)
+1001       SpiceJet        Vizag   to    Banglore        2020-07-24T12:30        2020-07-24T02:30      20 (Seats Available)
+1002       Indigo        Banglore   to    Hyderabad        2020-07-26T01:30        2020-07-26T03:30      10 (Seats Available)
+1003       GoAir        Chennai   to    Delhi        2020-08-24T12:30        2020-08-24T02:30      12 (Seats Available)
+1004       AirAsia        Delhi   to    Mumbai        2020-08-15T10:00        2020-08-15T12:00      25 (Seats Available)
+1005       TruJet        Kerala   to    SriNagar        2020-10-24T06:30        2020-10-24T08:30      12 (Seats Available)
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid entry please provide only positive integer
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Invalid Request of booking
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+Enter User Id : 
+Enter Flight Id : 
+Enter No of seats : 
+Requested to Airline Management 
+1001 SpiceJet 2 65532 Vizag Banglore 2020-07-24T12:30 2020-07-24T02:30 3
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. Admin Registration
+2. Admin Login
+3. Exit
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. User Register
+2. User Login
+3. Exit
+Enter ID : 
+ID should consist of only digits
+Enter ID : 
+Enter Name to Register : 
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. User Register
+2. User Login
+3. Exit
+Enter ID : 
+ID should consist of only digits
+Enter ID : 
+Enter Your Name : 
+Invalid Name! Name should have atleast 4 characters
+Enter Your Name : 
+Invalid Name! Name should have atleast 4 characters
+Enter Your Name : 
+<*********************** WELCOME TO AIRLINE RESERVATION SYSTEM *******************
+1. Admin Page
+2. User Page
+1. User Register
+2. User Login
+3. Exit
+Enter ID : 
+ID should consist of only digits
+Enter ID : 
+Enter Your Name : 
+Invalid Name! Name should have atleast 4 characters
+Enter Your Name : 
+Invalid Name! Name should have atleast 4 characters
+Enter Your Name : 
+Enter Your MobileNumber : 
+Mobile Number  should consists of only numbers
+Enter Your MobileNumber : 
+Enter a mobile number whose length is 10 digits and should start with 6,7,8,9 digits only
+Enter Your MobileNumber : 
+Enter Email to Register : 
+Enter proper email such that it should consist of numbers and alphabets
+Enter Email to Register : 
+Enter Password :
+Password should contain atleast 6 characters ,one uppercase,one lowercase,one number,one special symbol(@#$%) 
+Enter Password :
+Registered Successfully
+1. User Register
+2. User Login
+3. Exit
+Enter registered email  : 
+Enter registered Password : 
+Logged In Successfully....!!!
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
+1001       SpiceJet        Vizag   to    Banglore        2020-07-24T12:30        2020-07-24T02:30      20 (Seats Available)
+1002       Indigo        Banglore   to    Hyderabad        2020-07-26T01:30        2020-07-26T03:30      10 (Seats Available)
+1003       GoAir        Chennai   to    Delhi        2020-08-24T12:30        2020-08-24T02:30      12 (Seats Available)
+1004       AirAsia        Delhi   to    Mumbai        2020-08-15T10:00        2020-08-15T12:00      25 (Seats Available)
+1005       TruJet        Kerala   to    SriNagar        2020-10-24T06:30        2020-10-24T08:30      12 (Seats Available)
+1.   Search Flight By Source
+2.   Search Flight By Destination
+3.   Search Flight By Name
+4.   View All Flight Details
+5.   Book The Flight
+6.   Logout
